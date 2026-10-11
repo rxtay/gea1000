@@ -47,3 +47,9 @@ JapanSales =0.371(EUSales)-0.013
 $$
 
 ![image.png](/assets/image%205.png)
+
+| **Action-related** | **Non First Person** | **First Person** | **Total** |
+| --- | --- | --- | --- |
+| False | 519 | 168 | 687 |
+| True | 812 | 255 | 1067 |
+| **Total** | **1331** | **423** | **1754** |
