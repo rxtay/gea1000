@@ -41,15 +41,21 @@
 | JapanSales | 0.646       | 0.709       | 1.000          |
 
 $$
-EUSales =0.671(NASales)-0.050 \\
-JapanSales =0.254(NASales)-0.034 \\
+EUSales =0.671(NASales)-0.050
+$$
+
+$$
+JapanSales =0.254(NASales)-0.034
+$$
+
+$$
 JapanSales =0.371(EUSales)-0.013
 $$
 
 ![image.png](/assets/image%205.png)
 
 | **Action-related** | **Non First Person** | **First Person** | **Total** |
-| --- | --- | --- | --- |
-| False | 519 | 168 | 687 |
-| True | 812 | 255 | 1067 |
-| **Total** | **1331** | **423** | **1754** |
+| ------------------ | -------------------- | ---------------- | --------- |
+| False              | 519                  | 168              | 687       |
+| True               | 812                  | 255              | 1067      |
+| **Total**          | **1331**             | **423**          | **1754**  |
